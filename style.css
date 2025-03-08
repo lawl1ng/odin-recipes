@@ -1,0 +1,18 @@
+* {
+    background-color: lightblue;
+    color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {}
+
+ul {
+    list-style: none;
+}
+
+a:hover {
+    color: darkolivegreen;
+}
