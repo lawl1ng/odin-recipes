@@ -20,9 +20,10 @@ ul {
 
 li {
     padding: 20px;
-    border: 3px outset;
+    border: 3px solid darkolivegreen;
     /* ridge inset outset hidden */
-    margin: 20px 150px;
+    width: 300px;
+    margin: 20px auto;
 }
 
 a:hover {
